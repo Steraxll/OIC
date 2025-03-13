@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../slider-main"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "OIC"
+	}
+}
